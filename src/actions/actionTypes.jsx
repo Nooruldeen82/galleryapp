@@ -1,0 +1,3 @@
+export const SEARCH_PICTURE = "SEARCH_PICTURE";
+export const FETCH_PICTURES = "FETCH_PICTURES";
+export const LOADING = "LOADING";
